@@ -4,7 +4,7 @@ date: "2019-01-24T12:00:00.169Z"
 layout: post
 draft: false
 path: "/posts/google-ads-for-shopping/"
-category:
+category: "Web Development"
 tags:
   - "Web Development"
 description: "仕事でgoogle content api for shoppingについて調べといてって言われたからとりあえず調べてわかったことをまとめる。"

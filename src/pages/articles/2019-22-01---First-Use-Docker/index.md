@@ -4,7 +4,7 @@ date: "2019-01-22T13:30:32.169Z"
 layout: post
 draft: false
 path: "/posts/first-use-docker/"
-category:
+category: "Web Development"
 tags:
   - "Web Development"
 description: "Dockerを初めて使ってみたので備忘録として。学ぶことはないかもしれないけど、初心者目線で書いた。"
