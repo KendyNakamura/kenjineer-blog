@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    title: 'Blog by Kenji',
+    subtitle: 'Blog for tech, career and study etc.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,11 +20,11 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
+      name: 'Kenji',
       email: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'kenji__n',
+      github: 'KendyNakamura',
       rss: '#',
       vk: '#'
     }
