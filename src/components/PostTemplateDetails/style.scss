@@ -2,6 +2,9 @@
 @import "../../assets/scss/mixins";
 
 .post-single {
+    & h2 {
+        font-weight: bold;
+    }
     &__inner {
         max-width: $layout-post-single-max-width;
         padding: 0 15px;
